@@ -1,0 +1,55 @@
+Privacy Policy for Click Cowboys
+
+
+Last updated: 1st March, 2025.
+
+1. Introduction
+Welcome to Click Cowboys (“we,” “us,” or “our”). This Privacy Policy explains how we collect, use, and share information when you use our mobile game. By accepting this Privacy Policy, you agree to the collection and use of information in accordance with this policy.
+If you do not accept this Privacy Policy, you will not be able to play the game.
+
+2. Information We Collect
+We only collect a nickname that you voluntarily provide when submitting scores to the public leaderboard.
+Nickname: Used to identify your scores on the public leaderboard.
+No other personal information (such as email, location, or payment details) is collected.
+
+3. Third-Party Services
+We use Supabase for storing nicknames and scores, with data stored in the UK.
+Public Access: Your nickname and score will be publicly visible on the leaderboard to all players and anyone on the internet.
+No analytics or ads services are integrated.
+
+4. How We Use Your Information
+We use your nickname for the following purposes:
+Public Leaderboard: To display scores and rankings that are visible to all players and anyone on the internet.
+No other uses or profiling are conducted.
+
+5. Data Retention
+Retention Period: Nicknames and scores are stored indefinitely unless requested to be deleted.
+
+6. Information Sharing
+Public Access: Your nickname and score will be publicly visible on the leaderboard to anyone on the internet.
+We do not share your information with third parties, except as required by law.
+
+7. Security of Your Information
+We take reasonable steps to protect your information but cannot guarantee absolute security due to the nature of online services.
+
+8. Your Rights
+Access and Deletion: You may request to remove your nickname and score from the leaderboard by contacting us at woodchippergames@gmail.com
+
+9. Compliance with Privacy Laws
+We comply with relevant privacy laws, including the General Data Protection Regulation (GDPR) for users in the European Union.
+Age Restriction: The game has no age restrictions, but we do not knowingly collect additional personal information.
+
+10. Disclaimer of Liability
+The game is provided “as-is” without any guarantees. The author is not responsible for any damages (including health-related) resulting from the use of the game or any public display of leaderboard information.
+
+11. Acceptance of the Privacy Policy
+You must accept this Privacy Policy to play the game.
+By accepting, you confirm that you understand and agree to the collection and public display of your nickname on the leaderboard.
+
+12. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the “Last updated” date in this document.
+Continued use of the game after updates means you accept the new policy.
+
+13. Contact Us
+If you have any questions about this Privacy Policy, you can contact us at:
+Email: woodchippergames@gmail.com
